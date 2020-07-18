@@ -12,7 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.background{
+background-image: url(marble.jpg) ;
+width: 1225px;
+height: 900px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +39,5 @@
   to {
     transform: rotate(360deg);
   }
+
 }

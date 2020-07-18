@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
+
+.font{
+    font-family: 'Peddana';
+    font-size: 35px;
+    color: white;
+}
+.back{
+    background-color: black;
+}
