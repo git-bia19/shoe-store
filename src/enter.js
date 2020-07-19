@@ -9,7 +9,7 @@ const images = [
   {
      url: 'https://66.media.tumblr.com/b14b137115852b0e44709cc9a9b4f9bb/tumblr_pku446tbj71rv7pklo1_1280.gifv',
     title: 'ENTER',
-    width: '150%',
+    width: '100%',
   },
 
 ];
