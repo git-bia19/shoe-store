@@ -9,7 +9,7 @@ const images = [
   {
      url: 'https://66.media.tumblr.com/b14b137115852b0e44709cc9a9b4f9bb/tumblr_pku446tbj71rv7pklo1_1280.gifv',
     title: 'ENTER',
-    width: '100%',
+    width: '150%',
   },
 
 ];
@@ -23,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
   },
   image: {
     position: 'relative',
-    height: 600,
+    height: 700,
     [theme.breakpoints.down('xs')]: {
       width: '100% !important', // Overrides inline-style
       height: 100,
