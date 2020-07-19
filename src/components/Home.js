@@ -24,7 +24,7 @@ export default function ButtonAppBar() {
     <div className={classes.root}>
       <AppBarBreadcrumbs></AppBarBreadcrumbs>
       <div className ="back">
-       <br></br> <img src={require('../components/chanel.gif')} alt= "N.5" width = '95%' height ="500" align="center" ></img>
+       <br></br> <img src={require('../components/chanel.gif')} alt= "N.5" width = '104%' height ="500" align="center" ></img>
        <br></br><br></br><br></br>
     <div  className ="back">
     <ButtonBases></ButtonBases>
