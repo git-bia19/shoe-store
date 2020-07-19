@@ -14,8 +14,8 @@
 }
 .background{
 background-image: url(marble.jpg) ;
-width: 90%;
-height: 180%;
+width: 100%;
+height: 300%;
 }
 .App-header {
   background-color: #282c34;
