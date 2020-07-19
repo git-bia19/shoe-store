@@ -1,6 +1,6 @@
-.App,html,body{
+.App{
   height: 100%;
-   text-align: center;
+
 }
 
 .App-logo {
@@ -16,6 +16,7 @@
 .background{
 background-image: url(marble.jpg) ;
 width: 100%;
+  height:100%;
 
 }
 .App-header {
