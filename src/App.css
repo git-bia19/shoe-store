@@ -1,6 +1,7 @@
-.App{
+.App,body,html{
   height: 100%;
-
+  background-image: url(marble.jpg) ;
+width: 100%;
 }
 
 .App-logo {
